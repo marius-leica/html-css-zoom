@@ -9,6 +9,9 @@ body {
   font-family: "Roboto", sans-serif;
   background-color: black;
   height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 :root {
