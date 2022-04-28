@@ -139,3 +139,7 @@ body {
   cursor: pointer;
   transform: rotate(180deg);
 }
+
+.color-green {
+  color: #2aed2a;
+}
